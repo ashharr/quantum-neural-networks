@@ -1,0 +1,30 @@
+Problem statement: Quantum generalization of perceptron using neural networks 
+
+
+1) Objective: Optimizing the algorithm and the loss function to handle the noisy data
+
+ANN was developed in 1950s
+ANN + Quantum Computing = QNN
+QNN has significant advantage over classical computation.
+
+> As Moore’s law (transistors are doubling every two years in a device)approaches its end, 
+two new computing paradigms have been explored, neuromorphic and quantum computers. 
+
+2) NISQ devices.( 'Noisy Intermediate-Scale Quantum'  devices) 
+3) State space, bra and ket vectors, what are QNN
+4) Hilbert space  | Phi(i) >
+5) tensor product (x)
+6) l - number of layers , Ro - Tensor, Mi - Total number of perceptrons acting in l-1 hidden layers
+
+
+> Our algorithm is designed in a way which can handle noisy data or it is robust to noisy data. 
+> Faster
+> Efficient
+
+7) Limitations: 
+
+> we dont have fault tolerant quantum computers for solving hard problems
+> the best-known disadvantage is their “black box” nature. Simply put, you don’t know how or why your NN came up with a 
+certain output.
+For example, when you put an image of a cat into a neural network and it predicts it to be a car, 
+it is very hard to understand what caused it to arrive at this prediction. 
